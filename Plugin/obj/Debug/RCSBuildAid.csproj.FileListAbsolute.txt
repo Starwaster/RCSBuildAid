@@ -1,0 +1,5 @@
+C:\Users\Kevin\Documents\GitHub\RCSBuildAid\bin\Debug\RCSBuildAid.dll
+C:\Users\Kevin\Documents\GitHub\RCSBuildAid\bin\Debug\RCSBuildAid.pdb
+C:\Users\Kevin\Documents\GitHub\RCSBuildAid\Plugin\obj\Debug\RCSBuildAid.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\RCSBuildAid\Plugin\obj\Debug\RCSBuildAid.dll
+C:\Users\Kevin\Documents\GitHub\RCSBuildAid\Plugin\obj\Debug\RCSBuildAid.pdb

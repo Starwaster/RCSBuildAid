@@ -1,0 +1,2 @@
+C:\Users\Kevin\Documents\GitHub\RCSBuildAid\bin\Release\RCSBuildAid.dll
+C:\Users\Kevin\Documents\GitHub\RCSBuildAid\Plugin\obj\Release\RCSBuildAid.dll

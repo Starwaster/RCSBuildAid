@@ -149,7 +149,7 @@ namespace RCSBuildAid
                         }
                         winCBodyListRect = GUILayout.Window (winID + 1, winCBodyListRect, 
                                                              drawBodyListWindow,
-                                                             "Celestial bodies", GUI.skin.box);
+                                                             "Celestial bodies", MainWindow.style.RCSBA_Skin.box);
                     } 
                 }
             }
@@ -254,7 +254,7 @@ namespace RCSBuildAid
 
         void drawModeSelectList ()
         {
-            GUILayout.BeginVertical (GUI.skin.box);
+            GUILayout.BeginVertical (MainWindow.style.RCSBA_Skin.box);
             {
                 int r = Mathf.CeilToInt (plugin_mode_count / 2f);
                 int i = 0;
@@ -334,7 +334,7 @@ namespace RCSBuildAid
 
         void drawBodyListWindow (int ID)
         {
-            GUILayout.Space(GUI.skin.box.lineHeight + 4);
+            GUILayout.Space(MainWindow.style.RCSBA_Skin.box.lineHeight + 4);
             GUILayout.BeginVertical ();
             {
                 celestialBodyRecurse(Planetarium.fetch.Sun, 5);
